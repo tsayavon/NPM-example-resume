@@ -1,0 +1,26 @@
+{
+    "name": "Tiffany Sayavong",
+    "website": "https://tsayavon.github.io/",
+    "linkedin": "https://www.linkedin.com/in/tiffany-sayavong/",
+    "github": "tsayavon",
+    "email": "sayavongtiffany05@gmail.com",
+    "resume": "to be added",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
